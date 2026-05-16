@@ -1,0 +1,11 @@
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    height:auto;
+}
+p , ul,ol, blockquote {
+    margin: 60px 0px;
+}
